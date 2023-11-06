@@ -1,2 +1,2 @@
 # 2023PythonCourseAssignments
-This is were the assignments from the PYthon course go
+This is were the assignments from the Python course go
